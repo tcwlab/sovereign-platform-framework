@@ -36,5 +36,3 @@ The charter answers four questions every Inner Source initiative eventually face
 - Companion book Band 4: Anhang E
 
 Companion book Band 4 reproduces this charter as Anhang E for readers who don't reach this framework.
-
-**Note on contributing to this framework.** During the bootstrap phase, contributions to this charter template itself are processed via GitHub issues on the public mirror (see the project's main README for current visibility status).
