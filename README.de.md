@@ -65,10 +65,13 @@ MIT-lizenziert ([`LICENSE`](LICENSE)). Beiträge sind willkommen — gerne als P
 
 ## Kanonischer Ort und Sichtbarkeit
 
-**Kanonisch:** `git.mon.k8b.co/tcwlab/sovereign-platform-framework` (Forgejo, EU-souverän gehostet).
-**Mirror für Discovery:** `github.com/tcwlab/sovereign-platform-framework` (US-GitHub). Pull-Requests werden ausschließlich auf dem kanonischen Forgejo-Pfad bearbeitet.
+**Kanonisch:** `git.mon.k8b.co/tcwlab/sovereign-platform-framework` (Forgejo, EU-souverän gehostet). Aktuell intern; Zugang nach Einladung.
 
-Die Entscheidung für Forgejo-als-kanonisch ist Teil dessen, was dieses Framework lehrt — Souveränität fängt bei der Wahl der Entwicklungs-Plattform an, nicht erst beim Produkt.
+**Öffentliche Quelle:** `github.com/tcwlab/sovereign-platform-framework` (US-GitHub). Diese Spiegel-Variante ist read-only — Änderungen fließen ausschließlich aus dem kanonischen Forgejo-Pfad ein und werden im 8-Stunden-Takt plus bei jedem Commit automatisch synchronisiert.
+
+**Mitarbeit zur Zeit.** Beiträge willkommen als **GitHub-Issue** unter [`github.com/tcwlab/sovereign-platform-framework/issues`](https://github.com/tcwlab/sovereign-platform-framework/issues). Issues werden im internen Forgejo-Pfad gesichtet und entweder eingearbeitet oder begründet abgelehnt. Bei substantiellen Beiträgen ist nach Abstimmung eine Einladung zum kanonischen Forgejo-Pfad möglich.
+
+**Warum dieser zweistufige Aufbau.** Die Entscheidung für Forgejo-als-kanonisch ist Teil dessen, was dieses Framework lehrt — Souveränität fängt bei der Wahl der Entwicklungs-Plattform an, nicht erst beim Produkt. Der zunächst interne Modus ist eine bewusste Migrations-Schrittfolge: erst Inhalt stabilisieren, dann öffnen. Eine spätere Version dieser README wird den Wechsel auf vollständig öffentlichen Forgejo-Pfad dokumentieren.
 
 ## Quellen und Inspiration
 

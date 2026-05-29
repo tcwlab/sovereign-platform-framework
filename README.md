@@ -23,10 +23,13 @@ Both are tools, not recipes.
 
 ## Canonical source and visibility
 
-**Canonical:** `git.mon.k8b.co/tcwlab/sovereign-platform-framework` (Forgejo, EU-sovereign hosting).
-**Mirror for discovery:** `github.com/tcwlab/sovereign-platform-framework`. Pull requests are processed only on the canonical Forgejo path.
+**Canonical:** `git.mon.k8b.co/tcwlab/sovereign-platform-framework` (Forgejo, EU-sovereign hosting). Currently internal; access by invitation.
 
-The choice of Forgejo-as-canonical is part of what this framework teaches — sovereignty starts at the choice of the development platform, not at the choice of the product.
+**Public source:** `github.com/tcwlab/sovereign-platform-framework` (US-GitHub). This mirror is read-only — all changes flow exclusively from the canonical Forgejo path. Synchronisation runs every 8 hours plus on every commit.
+
+**Contributing during this phase.** Contributions welcome as **GitHub issues** at [`github.com/tcwlab/sovereign-platform-framework/issues`](https://github.com/tcwlab/sovereign-platform-framework/issues). Issues are triaged on the internal Forgejo path and either incorporated or refused with reasoning. Substantial contributions may, by arrangement, lead to an invitation to the canonical Forgejo path.
+
+**Why this two-step setup.** The choice of Forgejo-as-canonical is part of what this framework teaches — sovereignty starts at the choice of the development platform, not at the choice of the product. The initially internal mode is a deliberate migration sequence: stabilise content first, then open. A later revision of this README will document the move to a fully public Forgejo path.
 
 ## License
 
