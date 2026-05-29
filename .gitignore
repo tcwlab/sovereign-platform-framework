@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Editoren
+.idea/
+.vscode/
+*.swp
+*~
+
+# Build-Artefakte
+exporte/
+*.pdf
+*.docx
