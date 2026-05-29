@@ -15,3 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Architectural Manifesto template based on Self-Contained Systems (SCS)
 - Documentation explaining the relationship to the companion book
   *„Der souveräne Plattform-Bau"* (Band 4 of the *Architecture Line*)
+
+### Note on initial visibility
+
+During the bootstrap phase, the canonical Forgejo repository is kept internal. The public face is the GitHub mirror (read-only). Contributions are welcomed via GitHub issues; substantial contributors may be invited to the canonical Forgejo path.
