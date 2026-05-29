@@ -11,7 +11,7 @@ This framework and the book *„Der souveräne Plattform-Bau"* (Band 4 of the *A
 | Format | Linear prose, German | Templates + assessments, English-primary |
 | Output | Understanding | Action |
 | Update cadence | Stable on print, English translation follows | Living, version-controlled |
-| Distribution | epubli (DACH self-publishing) | Forgejo (canonical) + GitHub (discovery mirror) |
+| Distribution | epubli (DACH self-publishing) | GitHub |
 
 The book teaches the *why* of each maturity stage and each cross-cutting principle, with sources, vignettes, and discussion. The framework provides the *what* to actually do — assessments to locate yourself, templates to adopt.
 

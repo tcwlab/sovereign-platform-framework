@@ -21,12 +21,15 @@ Both are tools, not recipes.
 2. **Adopt the templates** appropriate for your stage from `templates/`.
 3. **Iterate** — both templates are versioned, living documents managed via pull requests in your own organisation.
 
-## Canonical source and visibility
+## Contributing
 
-**Canonical:** `git.mon.k8b.co/tcwlab/sovereign-platform-framework` (Forgejo, EU-sovereign hosting).
-**Mirror for discovery:** `github.com/tcwlab/sovereign-platform-framework`. Pull requests are processed only on the canonical Forgejo path.
+Contributions welcome. Please open issues or pull requests directly on GitHub:
 
-The choice of Forgejo-as-canonical is part of what this framework teaches — sovereignty starts at the choice of the development platform, not at the choice of the product.
+- [Issues](https://github.com/tcwlab/sovereign-platform-framework/issues)
+- [Pull Requests](https://github.com/tcwlab/sovereign-platform-framework/pulls)
+
+The framework follows Inner Source principles for its own maintenance (see `templates/inner-source-charta/`).
+
 
 ## License
 

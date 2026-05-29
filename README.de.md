@@ -59,16 +59,19 @@ Dieses Framework ist die **operative** Seite. Das Buch *„Der souveräne Plattf
 
 Details: [`docs/relationship-to-book.md`](docs/relationship-to-book.md).
 
-## Lizenz und Mitarbeit
+## Lizenz
 
-MIT-lizenziert ([`LICENSE`](LICENSE)). Beiträge sind willkommen — gerne als Pull-Request gegen `main`. Das Framework folgt Inner-Source-Prinzipien (siehe `templates/inner-source-charta/`).
+MIT-lizenziert ([`LICENSE`](LICENSE)).
 
-## Kanonischer Ort und Sichtbarkeit
+## Mitarbeit
 
-**Kanonisch:** `git.mon.k8b.co/tcwlab/sovereign-platform-framework` (Forgejo, EU-souverän gehostet).
-**Mirror für Discovery:** `github.com/tcwlab/sovereign-platform-framework` (US-GitHub). Pull-Requests werden ausschließlich auf dem kanonischen Forgejo-Pfad bearbeitet.
+Beiträge sind willkommen. Issues und Pull Requests bitte direkt auf GitHub:
 
-Die Entscheidung für Forgejo-als-kanonisch ist Teil dessen, was dieses Framework lehrt — Souveränität fängt bei der Wahl der Entwicklungs-Plattform an, nicht erst beim Produkt.
+- [Issues](https://github.com/tcwlab/sovereign-platform-framework/issues)
+- [Pull Requests](https://github.com/tcwlab/sovereign-platform-framework/pulls)
+
+Das Framework folgt Inner-Source-Prinzipien für die eigene Pflege (siehe `templates/inner-source-charta/`).
+
 
 ## Quellen und Inspiration
 
